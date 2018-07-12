@@ -1,0 +1,8 @@
+div.well
+{
+	cursor: pointer;
+}
+div.well div.thumbnail
+{
+	margin-right: 1em;
+}

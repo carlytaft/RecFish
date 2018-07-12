@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "526590171692",
+    "project_id": "tason-recfish"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526590171692:android:031bd66d1a07887c",
+        "android_client_info": {
+          "package_name": "us.tason.recfish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526590171692-ciu0cpahqd0dlp008ade2c52uo88qf1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "us.tason.recfish",
+            "certificate_hash": "1c62d415809cc21ce04d864dd99472be12bb1dd5"
+          }
+        },
+        {
+          "client_id": "526590171692-6h71haep0vo00gnibqg0gdv2dssqglbc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "526590171692-scg46pri02352r04tk3vpp6h38eoh11g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "us.tason.recfish",
+            "certificate_hash": "96fe69603953fa87651d156bcfd3ca70886c08e5"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi_5bqB7mZyjpCSOIVaaFyRSCl4TSLWJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
